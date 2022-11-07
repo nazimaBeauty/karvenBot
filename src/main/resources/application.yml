@@ -1,0 +1,5 @@
+bot:
+  BOT_TOKEN: 5703764197:AAEskj5xNqhbuv1PDjWQeg3m3CntEQoSCTc
+  BOT_USERNAME: karven_relax_bot
+server:
+  PORT: 5000
